@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Wowzers this file has messages!");
+        System.out.println("Resident sleeper emote");
     }
 
     public String getMessage() {
